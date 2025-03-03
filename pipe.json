@@ -1,0 +1,17 @@
+{
+  "name": "screenpipe-app",
+  "version": "1.0.0",
+  "description": "Screenpipe Next.js Application",
+  "settings": {
+    "fps": 1.0,
+    "audioChunkDuration": 30,
+    "videoChunkDuration": 60,
+    "ocrEngine": "windows-native"
+  },
+  "crons": [],
+  "permissions": [
+    "search",
+    "health",
+    "settings"
+  ]
+}

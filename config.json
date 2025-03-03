@@ -1,0 +1,14 @@
+{
+  "fps": 1.0,
+  "port": 3030,
+  "dataDir": "%USERPROFILE%\\.screenpipe\\data",
+  "audioChunkDuration": 30,
+  "videoChunkDuration": 60,
+  "ocrEngine": "windows-native",
+  "audioTranscriptionEngine": "whisper-large",
+  "enableRealtimeAudioTranscription": false,
+  "audioDevices": [],
+  "monitorIds": [],
+  "ignoredWindows": [],
+  "includedWindows": []
+}
